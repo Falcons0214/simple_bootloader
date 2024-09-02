@@ -208,7 +208,7 @@ void load_kernel(unsigned long start_address) {
         start ++;
         /*
          * We can't do more things here,
-         * since we didn't set flow control ...
+         * since we didn't set any exception setting ...
          */
     }
 
